@@ -1,0 +1,9 @@
+{
+    "name": "offseat/archer",
+    "type": "silverstripe-theme",
+	"extra": {
+        "expose": [
+            "assets"
+        ]
+	}
+}
